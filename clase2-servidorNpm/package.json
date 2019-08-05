@@ -1,0 +1,11 @@
+{
+  "name": "servidor-web",
+  "version": "1.0.0",
+  "description": "Servidor creado con Node JS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateo",
+  "license": "ISC"
+}
